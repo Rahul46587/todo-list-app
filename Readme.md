@@ -10,19 +10,19 @@ Perfect for beginners but powerful enough to show off core JavaScript skills.
 
 ## 💡 What It Shows
 
-- ✅ DOM Manipulation
-- 💾 LocalStorage Persistence
-- 🧠 Conditionals & Logic
-- ⚙️ Event Handling
+- ✅ DOM Manipulation  
+- 💾 LocalStorage Persistence  
+- 🧠 Conditionals & Logic  
+- ⚙️ Event Handling  
 - ✨ Responsive Design
 
 ---
 
 ## 🔧 Features
 
-- Add, complete, and delete tasks
-- Tasks are saved in your browser
-- Toggle completed tasks with a click
+- Add, complete, and delete tasks  
+- Tasks are saved in your browser  
+- Toggle completed tasks with a click  
 - Mobile-friendly design
 
 ---
@@ -31,12 +31,6 @@ Perfect for beginners but powerful enough to show off core JavaScript skills.
 
 - [ ] Edit task ✏️  
 - [ ] Filter (All / Completed / Pending)
-
----
-
-## 📸 Preview
-
-![Screenshot of To-Do App](link-to-screenshot-if-you-want-one)
 
 ---
 
@@ -49,4 +43,5 @@ Built with 💙 by Rahul, an aspiring software developer passionate about creati
 ## 🔗 GitHub Pages Badge
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub--Pages-Live-brightgreen?style=flat-square&logo=github)
+
 
